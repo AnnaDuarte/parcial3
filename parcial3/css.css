@@ -1,0 +1,120 @@
+.navbar-brand {
+    font-family: 'Comme', sans-serif;
+    font-size: 2.5rem;
+    font-weight: light;
+}
+
+.navbar {
+    padding-bottom: 0 0 4.5rem;
+}
+
+.nav-item {
+    padding: 0 18px;
+    font-family: 'Comme', sans-serif;
+    font-weight: medium;
+}
+
+.nav-link {
+    font-weight: medium;
+    font-family: 'Comme', sans-serif;
+}
+
+#titulo {
+    background-color: #c20012;
+    color: #ffffff;
+    text-align: center;
+    margin: auto;
+    padding: 1cm;
+    padding-top: 1cm;
+    padding-bottom: 1cm;
+    font-family: 'Comme', sans-serif;
+    font-weight: medium;
+}
+
+.portada{
+    background-color: hsl(140, 59%, 13%);
+    color: #ffffff;
+}
+
+#body {
+    background-color: #EAEFF0;
+}
+
+.h1 {
+    font-size: xx-large;
+    font-size: 3cm;
+    font-weight: 900;
+}
+
+#caja-quienes {
+    background-color: #EAEFF0;
+    font-weight: medium;
+    font-family: 'Comme', sans-serif;
+    color: #c20012;
+    text-align: center;
+    margin: auto;
+}
+
+#caja-rys {
+    background-color: #c20012;
+    font-weight: medium;
+    font-family: 'Comme', sans-serif;
+    color: #EAEFF0;
+    text-align: center;
+    margin: auto;
+    padding: 7% 15%;
+    position: relative;
+    font-size: medium;
+}
+
+#caja-estilos {
+    padding: 3% 2%;
+    text-align: center;
+    background-color: #ffffff;
+    font-weight: medium;
+    font-family: 'Comme', sans-serif;
+    margin: auto;
+}
+
+.img-testimonio {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#testimonios {
+    text-align: center;
+    background-color: hsla(0, 0%, 100%, 0.425);
+    color: #000000;
+    font-family: 'Comme', sans-serif;
+
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+#cta{
+    background-color: #c20012;
+    font-weight: medium;
+    font-family: 'Comme', sans-serif;
+    color: #EAEFF0;
+    text-align: center;
+    margin: auto;
+    padding: 7% 15%;
+    position: relative;
+    font-size: medium;
+   }
+
+   
+   #footer {
+    text-align: center;
+    color: #000000;
+    font-family: 'Comme', sans-serif;
+    padding: 7% 15%;
+    text-align: center;
+   }
+
+   .social-icon{
+    margin: 20px 10px;
+   }
